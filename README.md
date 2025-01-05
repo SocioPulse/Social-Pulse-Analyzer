@@ -134,8 +134,8 @@ Run the application using:
 python app/init.py
 ```
 
-You can then access the API at `http://127.0.0.1:5000/api/analyze`.
-
+You can then access the API at `http://127.0.0.1:5000/api/analyze` via POST request.
+Kindly refer to tests/test_app.py
 
 ## Contributing
 
