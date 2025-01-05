@@ -1,10 +1,20 @@
 # Social-Pulse-Analyzer
 
-![Social Pulse Analyzer](https://github.com/user-attachments/assets/aea870a8-e4a7-4131-9aa5-36ae2fdf06e5)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2be45bf1-3c7b-4dd1-a313-42d2fc216da4" alt="Social Pulse Analyzer">
+</div>
 
 ## Overview
 
 Social Pulse Analyzer is a powerful tool designed to analyze social media engagement and sentiment across various platforms. Currently, it supports Twitter, with plans to expand to Telegram, Discord, and Reddit. The application leverages Natural Language Processing (NLP) techniques to provide insights into community health, engagement metrics, and risk factors associated with social media accounts.
+
+## Special Feature
+
+Social Pulse Analyzer currently supports extracting Twitter data from pump.fun by providing:
+- **A Solana Token Address.**
+- **A Twitter Profile URL directly.**
+
+This allows seamless integration for analyzing social media activity linked to specific blockchain projects or individual Twitter accounts.
 
 ## Features
 
